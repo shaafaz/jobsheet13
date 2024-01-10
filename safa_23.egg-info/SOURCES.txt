@@ -1,8 +1,0 @@
-setup.py
-safa_23/__init__.py
-safa_23/konversi.py
-safa_23/tebak.py
-safa_23.egg-info/PKG-INFO
-safa_23.egg-info/SOURCES.txt
-safa_23.egg-info/dependency_links.txt
-safa_23.egg-info/top_level.txt
